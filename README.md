@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Timiemmy
-- 👀 I’m interested in an intern work
-- 🌱 I’m currently learning python and django framework 
-- 💞️ I’m looking for help on my programming journey 
+- 👀 Available for Python Developer Job
+- 🌱 My Skill: Python, Django, Rest Api(Django Rest Framework), Docker, Kubernetes, Nginx, API testing, AWS Solution Architect, 
+- 💞️ I'm currently available for any opportunity 
 - 📫 How to reach me: faith.bolanle@yahoo.com 
 
 <!---
