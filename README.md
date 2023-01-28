@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Timiemmy
-- 👀 Available for Python Developer Job
+- 👋 Hi, I’m Faith
+- 👀 I'm a self-taught Python Developer
 - 🌱 My Skill: Python, Django, Rest Api(Django Rest Framework), Docker, Kubernetes, Nginx, API testing, AWS Solution Architect, 
-- 💞️ I'm currently available for any opportunity 
+- 💞️ Available for any opportunity 
 - 📫 How to reach me: faith.bolanle@yahoo.com 
 
 <!---
