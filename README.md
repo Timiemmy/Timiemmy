@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Faith
 - 👀 I'm a self-taught Python Developer
-- 🌱 My Skill: Python, Django, Rest Api(Django Rest Framework), Docker, Kubernetes, Nginx, API testing, AWS Solution Architect, 
+- 🌱 My Skill: Python, Django, Rest Api(Django Rest Framework), Mongodb, MySQL, PostgreSQL, 
+     Docker, Kubernetes, Nginx, API testing, AWS Solution Architect, 
 - 💞️ Available for any opportunity 
 
 - 📫 Here is my mail: faith.bolanle@yahoo.com 
