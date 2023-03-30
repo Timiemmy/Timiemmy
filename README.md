@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Faith
-- 👀 I'm a self-taught Python Developer
+- 👀 I'm a Python Developer
 - 🌱 My Skill: Python, Django, Rest Api(Django Rest Framework), Mongodb, MySQL, PostgreSQL, 
      Docker, Kubernetes, Nginx, API testing, AWS Solution Architect, 
 - 💞️ Available for any opportunity 
