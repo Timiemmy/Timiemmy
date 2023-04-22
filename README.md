@@ -8,7 +8,7 @@
 
 Hi there I'm Faith, a Junior Web Developer. Seeking an internship. 👋🏻
 
-What led me into coding. <strong>CURIOSITY and PASSION</strong> to know more.
+What led me into coding. <strong>CURIOSITY, PASSION and Desire to solve problems through Tech</strong> to know more.
 
 I've always love to know how things work. I love tech. And after a long journey in the digital world, moving from digital marketing. I started my journey as a software devloper 11 months ago and since then, it has been a journey filled with many trials, and i enjoy it because that's what define my growth. 
 
