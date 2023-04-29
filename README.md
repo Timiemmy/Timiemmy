@@ -39,7 +39,7 @@ I've also recently started blogging about coding, related topics, and also probl
 ### My Tech Stack
 
 #### 👩🏻‍🏫 I'm Currently Learning
-
+[![My Skills](https://skillicons.dev/icons?i=jenkins,pandas,numpy,terraform,ansible,)](https://skillicons.dev)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
