@@ -44,6 +44,7 @@ I've also recently started blogging about coding, related topics, and also probl
 ![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-7B42BC?style=for-the-badge&logo=ansible&logoColor=white)
 
 
 #### 📙 Education
