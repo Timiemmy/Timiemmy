@@ -35,6 +35,22 @@ I've also recently started blogging about coding, related topics, and also probl
 
 - - -
 
+  
+### Stats
+  
+![Kera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timiemmy&theme=buefy&show_icons=true&count_private=true&hide_border=true)  
+
+  
+ 
+
+- - - 
+
+  
+![](https://komarev.com/ghpvc/?username=Timiemmy&color=blueviolet&style=flat-square)
+
+
+- - -
+
 
 ### My Tech Stack
 
@@ -166,16 +182,4 @@ I've also recently started blogging about coding, related topics, and also probl
 
 - - -
   
-  
-### Stats
-  
-![Kera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timiemmy&theme=buefy&show_icons=true&count_private=true&hide_border=true)  
-
-  
- 
-
-- - - 
-
-  
-![](https://komarev.com/ghpvc/?username=Timiemmy&color=blueviolet&style=flat-square)
 
