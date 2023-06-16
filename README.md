@@ -6,15 +6,15 @@
 
 ### About Me
 
-Hi there I'm Faith, a Junior Web Developer. Seeking an internship. 👋🏻
+Hi there I'm Faith, a Junior Python Developer. Seeking an internship. 👋🏻
 
-What led me into coding. <strong>CURIOSITY, PASSION and Desire to solve problems through Tech</strong> to know more.
+What led me to code? <strong>CURIOSITY, PASSION and Desire to solve problems through Tech</strong> to know more.
 
-I've always love to know how things work. I love tech. And after a long journey in the digital world, moving from digital marketing. I started my journey as a software devloper 11 months ago and since then, it has been a journey filled with many trials, and i enjoy it because that's what define my growth. 
+I've always loved to know how things work. I love tech. And after a long journey in the digital world, moving from digital marketing. I started my journey as a software developer 11 months ago and since then, it has been filled with many trials, and I enjoy it because that's what defines my growth. 
 
 Below are what I have gained in this journey.
 
-When I'm not coding, I can be found doing one of my many other hobbies such as reading books (personal development, programing, language📚(Currently, I speak Portuguese language and a little of Deutsch and Spanish)), Listening to music (to cool my brain though! 😂)and spending time with my family 👨‍👩‍👦.
+When I'm not coding, I can be found doing one of my many other hobbies such as reading books (personal development, programming, language📚(Currently, I speak Portuguese language and a little of Deutsch and Spanish)), Listening to music (to cool my brain though! 😂)and spending time with my family 👨‍👩‍👦.
 
 
 
@@ -79,6 +79,7 @@ I've also recently started blogging about coding, related topics, and also probl
 
 #### 📚 Libraries & Frameworks
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![DjangoREST](https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -143,7 +144,6 @@ I've also recently started blogging about coding, related topics, and also probl
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
