@@ -1,6 +1,21 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
 </div>
+<div id="badges">
+  <a href="https://www.linkedin.com/in/faithbolanle/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://discordapp.com/users/timiemmy">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord""/>
+  </a>
+  <a href="https://www.twitter.com/iamtimiemmy/">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  <a href="https://komarev.com/ghpvc/?username=Timiemmy">
+    <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+  </a>
+</div>
+
 
 ![Drak Blue Modern Twitter Header](https://user-images.githubusercontent.com/100134035/233643124-7c867cc4-8152-4575-8127-e4ab06b447cf.png)
 
