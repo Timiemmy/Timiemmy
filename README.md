@@ -3,12 +3,12 @@
 </div>
 
 
-<div id="badges" align="center>
+<div id="badges" align="center">
   <a href="https://www.linkedin.com/in/faithbolanle/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://discordapp.com/users/timiemmy">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord""/>
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
   <a href="https://www.twitter.com/iamtimiemmy/">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
@@ -17,17 +17,19 @@
     <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
   </a>
 </div>
-
-<h1 align="center>
+<h1 align="center">
   hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width='30px'/>
 </h1>
 
 ![Drak Blue Modern Twitter Header](https://user-images.githubusercontent.com/100134035/233643124-7c867cc4-8152-4575-8127-e4ab06b447cf.png)
 
+---
+###  :man_technologist: About Me:
+---
+My name is Faith Bolanle
 
-# Faith Bolanle
-## Junior Software Developer (Python)
+I am a Backend Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from :nigeria: Nigeria.
 
 ### About Me
 
