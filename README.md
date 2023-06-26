@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
+</div>
+
 ![Drak Blue Modern Twitter Header](https://user-images.githubusercontent.com/100134035/233643124-7c867cc4-8152-4575-8127-e4ab06b447cf.png)
 
 
