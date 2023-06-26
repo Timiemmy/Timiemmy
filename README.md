@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="100"/>
 </div>
-<div id="badges">
+<div id="badges" align="center>
   <a href="https://www.linkedin.com/in/faithbolanle/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -16,6 +16,11 @@
   </a>
 </div>
 
+
+<h1 align="center>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ![Drak Blue Modern Twitter Header](https://user-images.githubusercontent.com/100134035/233643124-7c867cc4-8152-4575-8127-e4ab06b447cf.png)
 
