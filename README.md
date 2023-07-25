@@ -22,8 +22,6 @@
   <img src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif' width='30px'/>
 </h1>
 
-![Drak Blue Modern Twitter Header](https://user-images.githubusercontent.com/100134035/233643124-7c867cc4-8152-4575-8127-e4ab06b447cf.png)
-
 ---
 ###  :man_technologist: About Me:
 ---
