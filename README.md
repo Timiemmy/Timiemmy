@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a python programmer speaiclised in backend Web development<br>I am currently learning bubble.io No-code platform<br>Tools I use are Flask, Django, Nginx, Docker, AWS, Postman, WordPress,<br>My soft skills: communication skill, teamwork, leadership skill, problem solving and interpersonal skill.<br>I love travelling, listening to music, reading and studying new things. 
+I am a python programmer specialised in backend web development. < br> I build using Django, FastAPI, Nginx, Docker, AWS, Postman<br>My soft skills: communication skill, teamwork, leadership skill, problem solving and interpersonal skill.<br>I love travelling, listening to music, reading and studying new things. 
 
 
 ## 🌐 Socials:
